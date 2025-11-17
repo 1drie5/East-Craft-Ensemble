@@ -1,0 +1,18 @@
+# Ignore virtual environment
+.venv/
+venv/
+.env/
+env/
+
+# Ignore dataset folders
+archive/
+
+# Ignore model files
+*.h5
+*.pth
+*.pt
+*.pb
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
